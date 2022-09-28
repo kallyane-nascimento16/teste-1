@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\bin\Debug\net6.0\carro.exe
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\bin\Debug\net6.0\carro.deps.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\bin\Debug\net6.0\carro.runtimeconfig.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\bin\Debug\net6.0\carro.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\bin\Debug\net6.0\carro.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\refint\carro.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\carro.genruntimeconfig.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\carro\obj\Debug\net6.0\ref\carro.dll

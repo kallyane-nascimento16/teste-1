@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\bin\Debug\net6.0\doisnumeros.exe
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\bin\Debug\net6.0\doisnumeros.deps.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\bin\Debug\net6.0\doisnumeros.runtimeconfig.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\bin\Debug\net6.0\doisnumeros.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\bin\Debug\net6.0\doisnumeros.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\refint\doisnumeros.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\doisnumeros.genruntimeconfig.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\doisnumeros\obj\Debug\net6.0\ref\doisnumeros.dll

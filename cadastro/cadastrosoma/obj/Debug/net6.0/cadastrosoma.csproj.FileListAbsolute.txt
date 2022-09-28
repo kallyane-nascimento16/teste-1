@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\bin\Debug\net6.0\cadastrosoma.exe
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\bin\Debug\net6.0\cadastrosoma.deps.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\bin\Debug\net6.0\cadastrosoma.runtimeconfig.json
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\bin\Debug\net6.0\cadastrosoma.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\bin\Debug\net6.0\cadastrosoma.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.AssemblyInfo.cs
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\refint\cadastrosoma.dll
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.pdb
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\cadastrosoma.genruntimeconfig.cache
+C:\Users\SENAI\Documents\kallyane C#\cadastro\cadastrosoma\obj\Debug\net6.0\ref\cadastrosoma.dll
